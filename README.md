@@ -25,3 +25,8 @@ go version go1.24.1 linux/amd64
 ![Showcase](showcase.png)
 
 ![Listing Files](files.png)
+
+
+You can use the following website to scan the generated qr codes.
+
+https://qrscanner.net/
